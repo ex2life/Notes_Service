@@ -27,7 +27,7 @@
 
     @if(count($notes)>0)
         <div class="card">
-            <div class="card-heading">
+            <div class="card-header">
                 Сохраненные заметки
             </div>
             <div class="card-body">
